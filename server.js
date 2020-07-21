@@ -39,7 +39,7 @@ server.get("/favorite", function (req, res) { //req = request, res = respond
 server.get("/video", function(req,res) {
     const id = req.query.id
 
-    const video = videos.find(function (video){
+    const video = videos.find(function(video){
         return video.id == id
     })
 
@@ -50,6 +50,6 @@ server.get("/video", function(req,res) {
     return res.render("video",{ item: video })
 })
 
-server.listen(5000, function () { //initialize server on port 5000, callback is a function that executes after listen is executed
+server.listen(5500, function () { //initialize server on port 5000, callback is a function that executes after listen is executed
     console.log("server is running")
 })
