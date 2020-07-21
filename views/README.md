@@ -1,6 +1,6 @@
 <h4 align="center">
-<img src=".github/portfolio.png" width="1500px" /><br>
- <b>Portfolio Template</b> 👨‍💻
+<img src=".github/module3.png" width="1500px" /><br>
+ <b>Rocketseat | Module 3</b> 👨‍💻
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gitpcl/project-1">
@@ -20,7 +20,7 @@
 
 <br>
 
-### :rocket: Tecnologias usadas
+### :rocket: Languages used
 
 This project was developed using the following languages:
 
@@ -28,26 +28,35 @@ This project was developed using the following languages:
 * [CSS](https://devdocs.io/css/)
 * [Javascript](https://devdocs.io/javascript/)
 
-### 💻 Projeto
+### :rocket: Project Dependencies
 
-This <b>Portfolio</b> was developed during the Rocketseat bootcamp during the front-end module.
+This project was developed using the following dependencies:
 
-### Pré-requisitos
+* [Express](https://www.npmjs.com/package/express)
+* [Nunjucks](https://www.npmjs.com/package/nunjucks)
+* [Nodemon](https://www.npmjs.com/package/nodemon)
+
+### 💻 Project
+
+This <b>Module 3 Project</b> was developed during the Rocketseat bootcamp during the back-end module.
+
+### Prerequisites
 
 Before you start, you will need to install in your machine the following tools:
 
+<b>[NPM](https://www.npmjs.com/)</b>
 <b>[Git](https://git-scm.com)</b>
 
 You will also need an editor, I recommend <b>[VSCode](https://code.visualstudio.com/)</b>
 
-### 🧭 Rodando 
+### 🧭 Running 
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/gitpcl/project-1
+$ git clone https://github.com/gitpcl/launchbase-module3
 
 # Access the dir of the project in your terminal
-$ cd project-1
+$ cd launchbase-module3
 ```
 ### :floppy_disk: Como contribuir
 
