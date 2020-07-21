@@ -1,17 +1,17 @@
 <h4 align="center">
-<img src=".github/module3.png" width="1500px" /><br>
+ <img src=".github/module3.png" width="1500px" /><br>
  <b>Rocketseat | Module 3</b> 👨‍💻
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gitpcl/project-1">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gitpcl/launchbase-module3">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gitpcl/project-1">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gitpcl/launchbase-module3">
   
   <a href="#">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gitpcl/project-1"></a>
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gitpcl/launchbase-module3"></a>
 
   <a href="#">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/gitpcl/project-1"></a>
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/gitpcl/launchbase-module3"></a>
     
   <a href="https://pedroclopes.com">
     <img alt="Made by Pedro Lopes" src="https://img.shields.io/badge/made%20by-Pedro%20Lopes-brightgreen"></a>
@@ -44,8 +44,8 @@ This <b>Module 3 Project</b> was developed during the Rocketseat bootcamp during
 
 Before you start, you will need to install in your machine the following tools:
 
-<b>[NPM](https://www.npmjs.com/)</b>
-<b>[Git](https://git-scm.com)</b>
+* <b>[NPM](https://www.npmjs.com/)</b>
+* <b>[Git](https://git-scm.com)</b>
 
 You will also need an editor, I recommend <b>[VSCode](https://code.visualstudio.com/)</b>
 
