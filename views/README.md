@@ -1,5 +1,5 @@
 <h4 align="center">
- <img src=".github/module3.png" width="1500px" /><br>
+ <img src="https://github.com/gitpcl/launchbase-module3/blob/master/.github/module3.png" width="1500px" /><br>
  <b>Rocketseat | Module 3</b> 👨‍💻
 </h4>
 <p align="center">
