@@ -87,7 +87,7 @@ Me acompanhe nas minhas redes sociais.
    <a href="https://twitter.com/lcpedro" target="_blank" > 
      <img alt="Github" src="https://img.shields.io/badge/Twitter--%23F8952D?style=social&logo=twitter"></a> 
   
-  <a href="https://instagram.com/pcl_hou" target="_blank" >
+  <a href="https://instagram.com/pedrclopes" target="_blank" >
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram"></a> 
 
   <a href="https://www.linkedin.com/in/pedro-c-lopes/" target="_blank" >
